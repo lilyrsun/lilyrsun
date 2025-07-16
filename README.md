@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🏫 I'm studying Computer Science and Business with Human-Computer Interaction at WashU<br>
 👨‍💻 I'm currently a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a><br>
-📫 Reach me at **lilysunr@gmail.com** <br>
+📫 Reach me at lilysunr@gmail.com <br>
 ⚡ Fun fact: I used to be a Team USA figure skater! <br>
 
 <h3 align="left">Connect with me:</h3>
