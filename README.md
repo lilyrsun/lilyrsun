@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Lily!
 
 <!--
 **lilyrsun/lilyrsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi 👋, I'm Lily!
 
 - 🏫 I'm studying Computer Science and Business with Human-Computer Interaction at WashU
 - 👨‍💻 I'm currently a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a>
