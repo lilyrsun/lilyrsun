@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Lily!</h1>
+# Hi 👋, I'm Lily!
 
 - 🏫 I'm studying Computer Science and Business with Human-Computer Interaction at WashU
 - 👨‍💻 I'm currently a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a>
