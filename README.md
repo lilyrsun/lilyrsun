@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I'm studying Computer Science and Business with Human-Computer Interaction at WashU<br>
-👩🏻‍💻 I'm currently an Associate Consultant Intern at Bain & Company
-🎮 I was previously a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/">patent-pending digital twin simulations</a> for AI/ML computer vision training<br>
-📫 Reach me at lilysunr@gmail.com <br>
+📚 I'm studying Computer Science and Business with Human-Computer Interaction at WashU<br><br>
+👩🏻‍💻 I'm currently an Associate Consultant Intern at Bain & Company<br><br>
+🎮 I was previously a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/">patent-pending digital twin simulations</a> for AI/ML computer vision training<br><br>
+📫 Reach me at lilysunr@gmail.com <br><br>
 ⚡ Fun fact: I used to be a Team USA figure skater! <br>
 
 <h3 align="left">Connect with me:</h3>
