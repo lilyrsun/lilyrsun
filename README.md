@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lily!
+## 👋 Hi, I'm Lily!
 
 <!--
 **lilyrsun/lilyrsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 📚 I'm studying Computer Science and Business with Human-Computer Interaction at WashU<br><br>
 👩🏻‍💻 I'm currently an Associate Consultant Intern at Bain & Company<br><br>
-🎮 I was previously a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/">patent-pending digital twin simulations</a> for AI/ML computer vision training<br><br>
+🎮 I was previously a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/" target="blank">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/" target="blank">patent-pending digital twin simulations</a> for AI/ML computer vision training<br><br>
 📫 Reach me at lilysunr@gmail.com <br><br>
-⚡ Fun fact: I used to be a Team USA figure skater! <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lilysunshine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilysunshine" height="23" width="30" /></a>
-</p>
+⚡ Fun fact: I used to be a Team USA figure skater! <br><br>
+🤝 Connect with me on <a href="https://linkedin.com/in/lilysunshine" target="blank">LinkedIn!</a>
