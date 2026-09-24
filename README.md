@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I'm studying Computer Science and Business with Human-Computer Interaction at WashU<br>
-👩🏻‍💻 I'm currently an Associate Consultant Intern at Bain & Company<br>
-🎮 I was previously a SWE Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/" target="blank">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/" target="blank">patent-pending digital twin simulations</a> for AI/ML computer vision training<br>
+📚 I'm studying Computer Science and Business with Computational AI and Human-Computer Interaction at WashU<br>
+👩🏻‍💻 In Summer of 2026, I worked as an Associate Consultant Intern at Bain & Company<br>
+🎮 From 2025-2026, I interned as a Software Engineer Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/" target="blank">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/" target="blank">patent-pending digital twin simulations</a> for AI/ML computer vision training<br>
 📫 Reach me at lilysunr@gmail.com <br>
 🤝 Connect with me on <a href="https://linkedin.com/in/lilysunshine" target="blank">LinkedIn!</a><br>
 ⚡ Fun fact: I used to be a Team USA figure skater!
