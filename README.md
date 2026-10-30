@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ✈️ Currently in Edinburgh, UK for study abroad :) 
 - 👩🏻‍💻 Summer 2026: I worked as an Associate Consultant Intern at Bain & Company<br>
 - 🎮 2025-2026: I interned as a Software Engineer Intern for the <a href = "https://blogs.sas.com/content/sascom/2025/05/14/how-sas-epic-games-and-georgia-pacific-are-reimagining-manufacturing-with-digital-twins/" target="blank">Game Analytics Team @ SAS</a>, building <a href = "https://blogs.sas.com/content/subconsciousmusings/2025/11/14/revolutionizing-industrial-safety/" target="blank">patent-pending digital twin simulations</a> for AI/ML computer vision training<br>
-📫 Reach me at lilysunr@gmail.com <br>
-🤝 Connect with me on <a href="https://linkedin.com/in/lilysunshine" target="blank">LinkedIn!</a><br>
-⚡ Fun fact: I used to be a Team USA figure skater!
+- 📫 Reach me at lilysunr@gmail.com <br>
+- 🤝 Connect with me on <a href="https://linkedin.com/in/lilysunshine" target="blank">LinkedIn!</a><br>
+- ⚡ Fun fact: I used to be a Team USA figure skater!
